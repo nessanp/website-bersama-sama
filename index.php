@@ -61,14 +61,14 @@ if ($result_projects && $result_projects->num_rows > 0) {
         <div class="container">
             <div class="hero-content">
                 <div class="hero-text">
-                    <h1>Halo, Saya Developer Profesional 👋</h1>
-                    <p class="hero-subtitle">Spesialis dalam Web Development, Mobile Development, dan Cloud Infrastructure</p>
+                    <h1>Halo, Saya Nessa Nirmala Pratama </h1>
+                    <p class="hero-subtitle"> MAHASISWA INSTITUT TEKNOLOGI DAN KESEHATAN MAHARDIKA</p>
                     
                     <div class="hero-description">
                         <p>
-                            Saya adalah Full Stack Developer dengan pengalaman lebih dari 5 tahun membangun aplikasi web dan mobile 
-                            yang scalable. Saya passionate dalam menciptakan solusi teknologi yang tidak hanya memecahkan masalah tetapi 
-                            juga memberikan pengalaman pengguna yang luar biasa.
+                            Saya adalah mahasiswa Teknik Informatika yang memiliki minat besar pada pengembangan teknologi, khususnya di bidang pengembangan web, pemrograman, dan pemanfaatan teknologi digital untuk menyelesaikan permasalahan nyata. Terbiasa mengerjakan proyek berbasis HTML, CSS, JavaScript, serta memiliki pemahaman dasar tentang pemrograman dan sistem operasi.
+
+Saya juga memiliki pengalaman dalam kerja tim, organisasi, dan manajemen proyek, yang membentuk kemampuan komunikasi, tanggung jawab, serta problem solving yang baik. Saya selalu terbuka untuk belajar hal baru, beradaptasi dengan perkembangan teknologi, dan berkomitmen untuk terus meningkatkan kemampuan teknis maupun non-teknis guna menunjang karier di bidang IT. 
                         </p>
                         <p>
                             Keahlian saya mencakup PHP, JavaScript, React, Vue.js, Node.js, MySQL, PostgreSQL, dan berbagai framework modern. 
